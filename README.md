@@ -1,4 +1,8 @@
-## Hi there 👋
+💻 **Experienced Linux Administrator** with a strong background in managing and deploying server environments.  
+🔧 Proficient in scripting with **Bash** and automation tools like **Ansible** and **Docker**.  
+🌱 Currently exploring **cloud technologies** and **DevOps practices**.  
+💼 Passionate about optimizing system performance and ensuring high availability.
+
 
 <!--
 **mintive/mintive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
