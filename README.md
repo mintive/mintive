@@ -1,20 +1,13 @@
-💻 **Experienced Linux Administrator** with a strong background in managing and deploying server environments.  
-🔧 Proficient in scripting with **Bash** and automation tools like **Ansible** and **Docker**.  
-🌱 Currently exploring **cloud technologies** and **DevOps practices**.  
-💼 Passionate about optimizing system performance and ensuring high availability.
+## Linux Enthusiast | Software Developer
 
+👨‍💻 Experience with Linux: 3+ years  
 
-<!--
-**mintive/mintive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programming: Python, Bash, C++, Git, Docker  
 
-Here are some ideas to get you started:
+🔧 System Administration: server setup, task automation, CI/CD  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 Containerization: Docker, Kubernetes  
+
+📈 Continuously improving DevOps workflows
+
+🚀 Active contributor to open-source projects
